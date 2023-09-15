@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "AutoSteper"
-copyright = "2022, M.K. Liu"
-author = "M.K. Liu"
+project = "Uni-Electrolyte"
+copyright = "2023, AISI"
+author = "Xiang Chen, Mingkang Liu, Yinshi Qiu, YuChen Gao"
 
 
 # -- General configuration ---------------------------------------------------
@@ -92,4 +92,4 @@ html_sidebars = {
            "searchbox.html"]
 }
 
-htmlhelp_basename = "autosteper-doc"
+htmlhelp_basename = "Uni-Electrolyte-doc"
